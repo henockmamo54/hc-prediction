@@ -27,3 +27,27 @@ Hyperlipidemia/Hyperlipidemia Next Year Values Prediction/models/hyperlipidemiaM
 Hyperlipidemia/Hyperlipidemia Next Year Values Prediction/models/hyperlipidemiaModel_nextyear_L103300_RF_regressor
 Hyperlipidemia/Hyperlipidemia Next Year Values Prediction/models/hyperlipidemiaModel_nextyear_L190500_RF_regressor
 Hyperlipidemia/Hyperlipidemia Next Year Values Prediction/models/hyperlipidemiaModel_nextyear_L100700_RF_regressor
+ischemic/Dataset/_TargetLable_forischemic.txt
+ischemic/Dataset/_XLable_forischemic.txt
+ischemic/Dataset/DATASET_2019-10-24.txt
+ischemic/Dataset/DATASET_2019-10-24_light.txt
+ischemic/Ischemic Classification/ISchemicClassifierModel_rf
+ischemic/Ischemic Next Year Values Prediction/_test.txt
+ischemic/Ischemic Next Year Values Prediction/_train.txt
+ischemic/Ischemic Next Year Values Prediction/_PredictedNextYearTest.txt
+ischemic/Ischemic Next Year Values Prediction/Predicted_NextYearData.txt
+ischemic/Ischemic Next Year Values Prediction/trainingset.txt
+ischemic/Ischemic Next Year Values Prediction/ThisYearData_actualData_train.txt
+ischemic/Ischemic Next Year Values Prediction/ThisYearData_actualData_test.txt
+ischemic/Ischemic Next Year Values Prediction/NextYearData_actualData_test.txt
+ischemic/Ischemic Next Year Values Prediction/NextYearData_actualData_train.txt
+ischemic/Ischemic Next Year Values Prediction/models/ISchemia_nextyear_RF_classifier
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L190300_XGBRegressor
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L103100_XGBRegressor
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L100700_XGBRegressor
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L103300_XGBRegressor
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L190900_XGBRegressor
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L103000_XGBRegressor
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L504700_XGBRegressor
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L101700_XGBRegressor
+ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_S000300_XGBRegressor
