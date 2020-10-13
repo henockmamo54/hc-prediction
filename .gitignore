@@ -11,3 +11,9 @@ Dataset/xtrain.txt
 Dataset/xtest.txt
 Dataset/XLable_onlyDiabeticRemoved.txt
 Dataset/TargetLable_onlyDiabeticRemoved.txt
+Diabetes/Diabetes Next Year Values Prediction/models/DiabeticModel_nextyear_L104600_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction/models/DiabeticModel_nextyear_L103000_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction/models/DiabeticModel_nextyear_S000300_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction/models/DiabeticModel_nextyear_L101700_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction/models/DiabeticModel_nextyear_L100800_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction/models/DiabeticModel_nextyear_L100700_RF_regressor
