@@ -51,3 +51,12 @@ ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L103
 ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L504700_XGBRegressor
 ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_L101700_XGBRegressor
 ischemic/Ischemic Next Year Values Prediction/models/ISchemiaModel_nextyear_S000300_XGBRegressor
+Diabetes/Diabetes Next Year Values Prediction - test/_DiabeticClassifierModelForNextYear_rf_model_mf
+Diabetes/Diabetes Next Year Values Prediction - test/_DiabeticClassifierModelForNextYear_rf_model_mf2
+Diabetes/Diabetes Next Year Values Prediction - test/NextYearDirectPredictUsingThisYearData_sep28
+Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_L100700_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_L100800_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_L101700_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_L103000_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_L104600_RF_regressor
+Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_S000300_RF_regressor
