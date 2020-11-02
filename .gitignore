@@ -60,3 +60,10 @@ Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextye
 Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_L103000_RF_regressor
 Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_L104600_RF_regressor
 Diabetes/Diabetes Next Year Values Prediction - test/models/DiabeticModel_nextyear_S000300_RF_regressor
+Diabetes/Diabetes Next Year - adjustable prediction model/_DiabeticClassifierModelForNextYear_rf_model_mf
+Diabetes/Diabetes Next Year - adjustable prediction model/NextYearDirectPredictUsingThisYearData_sep28
+Diabetes/Diabetes Next Year - adjustable prediction model/models/DiabeticModel_nextyear_L100700_RF_regressor
+Diabetes/Diabetes Next Year - adjustable prediction model/models/DiabeticModel_nextyear_L101700_RF_regressor
+Diabetes/Diabetes Next Year - adjustable prediction model/models/DiabeticModel_nextyear_L103000_RF_regressor
+Diabetes/Diabetes Next Year - adjustable prediction model/models/DiabeticModel_nextyear_L104600_RF_regressor
+Diabetes/Diabetes Next Year - adjustable prediction model/models/DiabeticModel_nextyear_S000300_RF_regressor
